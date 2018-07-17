@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/activity.js": "/js/activity.js",
+    "/js/wechat.js": "/js/wechat.js",
+    "/js/vendor.js": "/js/vendor.js",
+    "/js/explain.js": "/js/explain.js",
+    "/js/flexible.js": "/js/flexible.js",
+    "/js/manifest.js": "/js/manifest.js"
+}

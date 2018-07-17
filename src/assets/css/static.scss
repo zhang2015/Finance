@@ -1,0 +1,32 @@
+.wrapper{
+	padding: 20px;
+    .content{
+        border-radius: 10px;
+        padding: 20px;
+        background: #FFFFFF;
+        p{
+            font-size: 26px;
+            line-height: 50px;
+            color: #666666;
+        }
+        h1{
+            font-size: 0.426666rem;
+            line-height: 0.8rem;
+            text-align: center;
+            color: #333333;
+        }
+        h2{
+            font-size: 32px;
+            line-height: 60px;
+            color: #333333;
+        }
+        ul{
+            list-style: disc;
+            padding-left: 30px;
+            color: #666666;
+            li{
+                line-height: 40px;
+            }
+        }
+    }
+}

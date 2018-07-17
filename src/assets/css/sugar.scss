@@ -1,0 +1,46 @@
+.sugar-recommend{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 0 20px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    .sugars{
+      width: 345px;
+      height: auto;
+      font-size: 0;
+      padding-bottom: 28px;
+      img{
+        width: 100%;
+        height: auto;
+      }
+      section{
+        display: flex;
+        justify-content: flex-start;
+        padding-top: 10px;
+        span{
+          font-size: 20px;
+          padding: 7px 15px;
+          color: #ffffff;
+          border-radius: 2px;
+        }
+        span:nth-child(1){
+          background: #de2815;
+        }
+        span:nth-child(2){
+          margin-left: 18px;
+          background: #b6b6b6;
+        }
+      }
+      p:nth-child(3){
+        color: #333;
+        font-size: 30px;
+        padding-top: 20px;
+        padding-bottom: 16px;
+      }
+      p:nth-child(4){
+        color:#de2815;
+        font-size: 24px;
+      }
+    }
+  }

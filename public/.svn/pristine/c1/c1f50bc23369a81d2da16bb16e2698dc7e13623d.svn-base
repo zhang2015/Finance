@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>微链财经</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <script src="js/flexible.js"></script>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/download.css" />
+    <style type="text/css">
+        p.footer_txt {
+            color: #de2815;
+            font-size: 0.24rem;
+            padding-bottom: 0.266666rem;
+        }
+        
+        .download_logo {
+            width: 2.386666rem;
+            height: 2.733333rem;
+        }
+        
+        p.click_txt {
+            padding-top: 2.52rem;
+            font-size: 0.373333rem;
+            color: #adadad;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="download_wrapper">
+        <div>
+            <img src="images/logo.png" class="download_logo" />
+            <p class="click_txt">点击下载APP</p>
+            <a href="https://itunes.apple.com/cn/app/%E4%B8%AD%E7%8E%A9%E5%AE%B6/id1156792134?mt=8">
+                <img src="images/ios.png" class="download_ios" />
+            </a>
+            <a href="http://lscj.api.cnwan.com/common/down_load_package" id="and">
+                <img src="images/android.png" class="download_android" />
+            </a>
+        </div>
+        <p class="footer_txt">北京新创互联科技有限公司</p>
+    </div>
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+</body>
+
+</html>
